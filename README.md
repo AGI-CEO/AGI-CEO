@@ -42,9 +42,13 @@ I'm passionate about:
 - #artificialintelligence 🤖
 
 I believe in the power of these communities and technologies to drive innovation and change in our world. Let's connect and explore how we can work together to harness this potential.
+
 🔗 [Let's Connect](https://bio.blaisep.com)  
+
 🔗 [Twitter](https://twitter.com/AGI-CEO)  
+
 🔗 [LangLabs YT](https://youtube.com/@LangLabs)
+
 🔗 [LangLabs Website](https://langlabs.io)
 
 ---
