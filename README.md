@@ -27,6 +27,13 @@ The architecture behind autonomous agents fascinates me. It's the backbone that 
 
 ---
 
+<a href="https://www.github.com/AGI-CEO" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/AGI-CEO?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/AGI_CEO" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/AGI_CEO?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.twitch.tv/AGI_CEO" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/AGI_CEO?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+
+---
 ## 🎯 Mission
 
 Our mission at LangLabs is to empower businesses with custom AI solutions, from predictive analytics to advanced customer experience enhancements. We're committed to delivering advanced technology to organizations seeking a competitive edge. Don't let technical barriers prevent you from harnessing AI's full potential. Partner with LangLabs to unlock new opportunities for success and inspire confidence in the future of your business.
@@ -50,6 +57,16 @@ I believe in the power of these communities and technologies to drive innovation
 🔗 [LangLabs YT](https://youtube.com/@LangLabs)
 
 🔗 [LangLabs Website](https://langlabs.io)
+
+---
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/AGI-CEO"><img src="https://github-readme-stats.vercel.app/api?username=AGI-CEO&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AGI-CEO's GitHub stats" /></a>
+
+<a href="https://github.com/AGI-CEO" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGI-CEO&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ---
 
