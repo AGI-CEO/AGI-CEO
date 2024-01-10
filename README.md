@@ -6,7 +6,7 @@
 
 ## 🎖 About Me
 
-🔹 **Former Manpower Officer, Captain, United States Marine Corps**  
+🔹 **Disabled Veteran, Captain, United States Marine Corps**  
 As a seasoned Manpower Officer with the United States Marine Corps, I've spent the greater half of a decade honing my leadership skills, strategic thinking, and commitment to excellence. The discipline, adaptability, and resilience I've gained have been invaluable.
 
 🔹 **Scientific Acumen**  
