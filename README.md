@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Blaise - CEO of LangLabs 🚀
+# 👋 Hey, I'm Blaise 🚀
 
 🌟 **"Unlocking the Future of AI, One Algorithm at a Time. Let's craft the AI future together!"** 🌟
 
