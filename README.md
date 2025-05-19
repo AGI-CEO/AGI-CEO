@@ -7,7 +7,7 @@
 ## 🎖 About Me
 
 🔹 **Veteran, Captain, United States Marine Corps**  
-As a seasoned Manpower Officer with the United States Marine Corps, I've spent the greater half of a decade honing my leadership skills, strategic thinking, and commitment to excellence. The discipline, adaptability, and resilience I've gained have been invaluable.
+As a seasoned Adjutant and Legal Officer with the United States Marine Corps, I've spent the greater half of a decade honing my leadership skills, strategic thinking, and commitment to excellence. The discipline, adaptability, and resilience I've gained have been invaluable.
 
 🔹 **Scientific Acumen**  
 Before my military tenure, I was an Undergraduate Research Assistant at the University of Washington Department of Laboratory Medicine and Pathology. I contributed to groundbreaking research in the biology of aging, honing my scientific methodology and developing a deep understanding of data analysis and experimental design. This background really helps with prompt engineering.
